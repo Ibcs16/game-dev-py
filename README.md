@@ -3,19 +3,23 @@
 
 Learning game development using pygame 🐍 🎮
 
-## Recordings
+## Tech used
+- Python v3
+- Pygame
+
+## Games
 
 ### Pong
-![Pong](./recordings/pong.mov)
+![Pong](https://github.com/Ibcs16/game-dev-py/blob/main/recordings/pong.mov)
 
 ### TicTactoe
-![TicTactoe](./recordings/tictactoe.mov)
+![TicTactoe](https://github.com/Ibcs16/game-dev-py/blob/main/recordings/tictactoe.mov)
 
 ### Snake
-![Snake](./recordings/snake.mov)
+![Snake]([./recordings/snake.mov](https://github.com/Ibcs16/game-dev-py/blob/main/recordings/snake.mov))
 
 ### Breakout
-![Breakout](./recordings/breakout.mov)
+![Breakout]([./recordings/breakout.mov](https://github.com/Ibcs16/game-dev-py/blob/main/recordings/breakout.mov))
 
 
 ## Run Locally
